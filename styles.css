@@ -1,11 +1,18 @@
 .page-title {
     text-align: center;
-    background-color: rgb(146, 7, 146);
+    background-color: rgb(170, 5, 170);
     color: white;
+    box-sizing: content-box;
+    width: 140px;
+    border: 5px solid rgb(160, 2, 160);
+    padding: 10px;
+    margin-left: 35%;
+    margin-right: 35%;
+    
 }
 .recipe {
     background-color: lightgreen;
-}
+} 
 
 /* Center qurutob image */
 .img-qurutob {
