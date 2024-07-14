@@ -1,0 +1,16 @@
+.page-title {
+    text-align: center;
+    background-color: rgb(146, 7, 146);
+    color: white;
+}
+.recipe {
+    background-color: lightgreen;
+}
+
+/* Center qurutob image */
+.img-qurutob {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
